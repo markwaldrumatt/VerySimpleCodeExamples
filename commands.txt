@@ -1,0 +1,6 @@
+commands.txt
+
+cd /usr/bin/java
+which java
+javac Check.java
+java Check
